@@ -5,10 +5,10 @@ This repo is a clone of <https://github.com/miguelgrinberg/flasky>
 
 ## Screenshots
 ### Activity 1: Installing flask
-![Alt text](<Screenshots/Install flask.png>)
+![Alt text](<Screenshots/Activity 1.png>)
 
 ### Activity 2: Example 2.1 and 2.2
-
+![Alt text](<Screenshots/Activity 2.png>)
 
 ### Activity 3: Example 3
 
