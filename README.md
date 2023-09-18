@@ -11,6 +11,7 @@ This repo is a clone of <https://github.com/miguelgrinberg/flasky>
 ![Alt text](<Screenshots/Activity 2.png>)
 
 ### Activity 3: Example 3
-
+Branch activity_3
+![Alt text](<screenshots/Activity 3.png>)
 
 ### Activity 4: Example 4.7
