@@ -15,3 +15,7 @@ Branch activity_3
 ![Alt text](<screenshots/Activity 3.png>)
 
 ### Activity 4: Example 4.7
+![Alt text](<screenshots/Activity 4 pt1.png>)
+![Alt text](<screenshots/Activity 4 pt2.png>)
+![Alt text](<screenshots/Activity 4 pt3.png>)
+![Alt text](<screenshots/Activity 4 pt4.png>)
